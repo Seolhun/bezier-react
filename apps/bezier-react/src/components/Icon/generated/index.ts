@@ -25,6 +25,7 @@ import ArrowTurnLeftUpIcon from './ArrowTurnLeftUpIcon'
 import ArrowTurnRightDownIcon from './ArrowTurnRightDownIcon'
 import ArrowTurnRightUpIcon from './ArrowTurnRightUpIcon'
 import ArrowUpIcon from './ArrowUpIcon'
+import AssignToMeIcon from './AssignToMeIcon'
 import AssigneeIcon from './AssigneeIcon'
 import AtomIcon from './AtomIcon'
 import BadgeIcon from './BadgeIcon'
@@ -186,6 +187,7 @@ import GoogleIcon from './GoogleIcon'
 import GraphIcon from './GraphIcon'
 import GroupFilledIcon from './GroupFilledIcon'
 import GroupIcon from './GroupIcon'
+import GroupRemoveIcon from './GroupRemoveIcon'
 import HandIcon from './HandIcon'
 import HandLoveIcon from './HandLoveIcon'
 import HandPointIcon from './HandPointIcon'
@@ -450,6 +452,7 @@ const icons = {
   'arrow-turn-right-down': ArrowTurnRightDownIcon,
   'arrow-turn-right-up': ArrowTurnRightUpIcon,
   'arrow-up': ArrowUpIcon,
+  'assign-to-me': AssignToMeIcon,
   assignee: AssigneeIcon,
   atom: AtomIcon,
   badge: BadgeIcon,
@@ -611,6 +614,7 @@ const icons = {
   graph: GraphIcon,
   'group-filled': GroupFilledIcon,
   group: GroupIcon,
+  'group-remove': GroupRemoveIcon,
   hand: HandIcon,
   'hand-love': HandLoveIcon,
   'hand-point': HandPointIcon,
@@ -877,6 +881,7 @@ export {
   ArrowTurnRightDownIcon,
   ArrowTurnRightUpIcon,
   ArrowUpIcon,
+  AssignToMeIcon,
   AssigneeIcon,
   AtomIcon,
   BadgeIcon,
@@ -1038,6 +1043,7 @@ export {
   GraphIcon,
   GroupFilledIcon,
   GroupIcon,
+  GroupRemoveIcon,
   HandIcon,
   HandLoveIcon,
   HandPointIcon,
